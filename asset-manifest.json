@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TallyQuote/static/css/main.0f74a8ff.css",
-    "main.js": "/TallyQuote/static/js/main.d66df95d.js",
+    "main.js": "/TallyQuote/static/js/main.1f49e3d0.js",
     "index.html": "/TallyQuote/index.html",
     "main.0f74a8ff.css.map": "/TallyQuote/static/css/main.0f74a8ff.css.map",
-    "main.d66df95d.js.map": "/TallyQuote/static/js/main.d66df95d.js.map"
+    "main.1f49e3d0.js.map": "/TallyQuote/static/js/main.1f49e3d0.js.map"
   },
   "entrypoints": [
     "static/css/main.0f74a8ff.css",
-    "static/js/main.d66df95d.js"
+    "static/js/main.1f49e3d0.js"
   ]
 }
